@@ -8,4 +8,4 @@ I changed a majority of the `div` tags to their respective hierarchy. For exampl
 
 ## Writing Up This README and Learning Markdown
 
-Learning how to use Markdown is actully pretty fun. I've been reading through the articles provided in the Resources channel in Slack and found a website that lets you **_code Markdown as you learn about it_**! Here is the [link](www.markdowntutorial.com) to the website I used. It has been extremely helpful and fun to go through it and see what each type of markdown looks like in real time. I also used [Daring Fireball](www.daringfireball.net) to look up any other functions I was unfamiliar with.
+Learning how to use Markdown is actully pretty fun. I've been reading through the articles provided in the Resources channel in Slack and found a website that lets you **_code Markdown as you learn about it_**! Here is the [link](https://www.markdowntutorial.com/) to the website I used. It has been extremely helpful and fun to go through it and see what each type of markdown looks like in real time. I also used [Daring Fireball](https://daringfireball.net/) to look up any other functions I was unfamiliar with.
